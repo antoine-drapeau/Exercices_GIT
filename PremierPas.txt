@@ -5,4 +5,4 @@ Nouvelle fonctionnalite
 commit1
 commit2
 
-test_no_merge
+test supp branch
